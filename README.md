@@ -51,8 +51,6 @@ APPID(翻到下面有如何得到自己的APPID方法)
 cron表达式为:`- cron: 30 02 * * *`  
 
 ## 感谢
-感觉原仓库的`commit`比较乱，所以自己新开了个仓库  
-
 Fork自：https://github.com/mixool/HiCnUnicom  
 Workflow参考：https://github.com/hzys/HiCnUnicom  
 
